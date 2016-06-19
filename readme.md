@@ -2,3 +2,4 @@
 nvm, nrm
 ack
 autojump
+npm
